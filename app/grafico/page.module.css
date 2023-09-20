@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Inclusive+Sans&display=swap');
+
+.container{
+    margin: 90px;
+    font-family: 'Inclusive Sans', sans-serif;
+
+}
+
+.title{
+    font-size: 30px;
+}
